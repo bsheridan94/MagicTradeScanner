@@ -11,4 +11,5 @@ Features:
     Allow price downloads while on wifi inorder to mitigate issues based on cellular connection.
 
     Integrate standard MTG app features such as life counter, export to .DEK, and possible Tappedout support.
-    
+
+    Pucatrade Manager support to track current trade binder.    
